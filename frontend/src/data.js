@@ -1,0 +1,53 @@
+const data = {
+  products: [
+    {
+      name: 'Nike Air Max Impact 3 lalalalalala',
+      slug: 'Nike-Air-Max-Impact-3',
+      category: 'basketball shoes',
+      image: '/images/p1.jpg', // 679px × 829px
+      price: 1299.99,
+      countInStock: 10,
+      brand: 'Nike',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality basketball shoes',
+    },
+    {
+      name: 'Under Armour Jet 21',
+      slug: 'Under-Armour-Jet-21',
+      category: 'basketball shoes',
+      image: '/images/p2.jpg',
+      price: 1279.9,
+      countInStock: 20,
+      brand: 'Under Armour',
+      rating: 4.0,
+      numReviews: 10,
+      description: 'high quality basketball shoes',
+    },
+    {
+      name: 'Jordan Max Aura 3',
+      slug: 'Jordan-Max-Aura-3',
+      category: 'basketball shoes',
+      image: '/images/p3.jpg',
+      price: 2149.9,
+      countInStock: 15,
+      brand: 'Jordan',
+      rating: 4.5,
+      numReviews: 14,
+      description: 'high quality basketball shoes',
+    },
+    {
+      name: 'Adidas Own The Game 2.0',
+      slug: 'adidas-own-the-game-2.0',
+      category: 'basketball shoes',
+      image: '/images/p4.jpg',
+      price: 804,
+      countInStock: 5,
+      brand: 'Adidas',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality basketball shoes',
+    },
+  ],
+};
+export default data;
